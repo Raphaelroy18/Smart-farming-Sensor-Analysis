@@ -40,6 +40,59 @@ o	Rice has the lowest yield (~389,600 Kg/Ha) with a growth duration of 119 days.
 
 <img width="1262" height="710" alt="Screenshot 2025-07-22 003600" src="https://github.com/user-attachments/assets/a7280837-c6d3-4ef8-9bd1-1262bc2ffaf5" />
 
+3. Bar Chart: Yield Kg per Hectare vs. Region
+•	Insight:
+
+o	Central USA and East Africa are the top-performing regions in terms of yield (~400K Kg/Ha).
+
+o	North India follows closely, while South India and South USA have comparatively lower yields (~360K Kg/Ha).
+
+•	Interpretation: Central USA and East Africa might be benefiting from better agro-climatic conditions or more efficient practices. South India and South USA may require interventions to boost productivity.
+
+
+<img width="1262" height="708" alt="Screenshot 2025-07-22 004058" src="https://github.com/user-attachments/assets/e43bee8f-43a8-4b65-9382-1d658c7d1bfd" />
+
+4. Pie Chart: Yield Kg per Hectare vs. Irrigation Type
+•	Insight:
+
+o	The highest contribution to total yield comes from no irrigation (595.82K Kg/Ha or 29.5%), suggesting reliance on rainfall.
+
+o	Drip (494.21K, 24.5%) and Manual (480.22K, 23%) follow closely.
+
+o	Sprinkler accounts for the least share (446.16K, 22.1%).
+
+•	Interpretation: Fields without irrigation still yield significantly, indicating rainfed farming can be productive. However, drip irrigation, with its high efficiency, is also contributing substantially, emphasizing the value of modern irrigation technologies.
+
+
+<img width="1257" height="704" alt="Screenshot 2025-07-22 004348" src="https://github.com/user-attachments/assets/7a1a83e8-13f2-4154-b08e-638a23a25bde" />
+
+5. Table Chart: Crop Type vs. Average Yield per Hectare
+Crop Type	Average Yield (Kg/Ha)
+
+Soybean	4,256.81
+
+Wheat	4,077.58
+
+Maize	3,982.55
+
+Cotton	3,925.60
+
+Rice	3,896.18
+
+Total Avg	4,032.93
+
+•	Insight:
+
+o	Soybean has the highest average yield per hectare, followed by Wheat.
+
+o	Rice consistently shows the lowest yield among the crops.
+
+•	Interpretation: Crop selection plays a significant role in productivity. Soybean and wheat are high-performing and should be prioritized or studied further for replication in low-performing regions.
+
+
+<img width="1257" height="702" alt="Screenshot 2025-07-22 004805" src="https://github.com/user-attachments/assets/fb91f1f5-1c18-4a66-9ee0-448ebd082e3e" />
+
+
 
 
 
