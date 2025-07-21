@@ -11,6 +11,7 @@ The data was gotten from kaggle[download here](https://www.kaggle.com/datasets/a
 
 *TECHNOLOGIES USE FOR THIS PROJECT
 Microsoft Excel (for data cleaning, basic statistics and insights)
+
 Power BI (for DAX calculations, creating key performance indicators (KPIs)  power query and visualization).
 
 *DASHBOARD
@@ -19,6 +20,7 @@ Power BI (for DAX calculations, creating key performance indicators (KPIs)  powe
 *RELEVANT ENQUIRIES FOR THE ANALYSIS
 
 1. Line Chart: Yield Kg per Hectare vs. Harvest Date (Month)
+   
 •	Insight: Yield increases from April through June, peaking at nearly 728,039.50 Kg/Ha in June, then declines steadily in July and drops sharply in August.
 
 •	Interpretation: This suggests that June is the most productive harvest month, likely due to optimal growing conditions. Post-June, environmental or agronomic factors may reduce crop productivity.
@@ -27,7 +29,9 @@ Power BI (for DAX calculations, creating key performance indicators (KPIs)  powe
 <img width="1267" height="701" alt="Screenshot 2025-07-22 003106" src="https://github.com/user-attachments/assets/b96036b3-081c-4004-927a-7fbb15bb5eb7" />
 
 2. Scatter Plot: Avg Growth Duration vs. Yield Kg per Hectare vs. Crop Type
+   
 •	Insight:
+
 o	Soybean has the highest yield (~425,000 Kg/Ha) and a growth duration of around 120 days.
 
 o	Wheat also has high yields (~407,000 Kg/Ha) and a slightly longer growth period (~121 days).
@@ -41,6 +45,7 @@ o	Rice has the lowest yield (~389,600 Kg/Ha) with a growth duration of 119 days.
 <img width="1262" height="710" alt="Screenshot 2025-07-22 003600" src="https://github.com/user-attachments/assets/a7280837-c6d3-4ef8-9bd1-1262bc2ffaf5" />
 
 3. Bar Chart: Yield Kg per Hectare vs. Region
+   
 •	Insight:
 
 o	Central USA and East Africa are the top-performing regions in terms of yield (~400K Kg/Ha).
@@ -53,6 +58,7 @@ o	North India follows closely, while South India and South USA have comparativel
 <img width="1262" height="708" alt="Screenshot 2025-07-22 004058" src="https://github.com/user-attachments/assets/e43bee8f-43a8-4b65-9382-1d658c7d1bfd" />
 
 4. Pie Chart: Yield Kg per Hectare vs. Irrigation Type
+   
 •	Insight:
 
 o	The highest contribution to total yield comes from no irrigation (595.82K Kg/Ha or 29.5%), suggesting reliance on rainfall.
