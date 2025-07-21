@@ -9,7 +9,8 @@ Based on the first five sample data entries, we can observe variations in farmin
 
 The data was gotten from kaggle[download here](https://www.kaggle.com/datasets/atharvasoundankar/smart-farming-sensor-data-for-yield-prediction?resource=download)
 
-*TECHNOLOGIES USE FOR THIS PROJECT
+**TECHNOLOGIES USE FOR THIS PROJECT
+
 Microsoft Excel (for data cleaning, basic statistics and insights)
 
 Power BI (for DAX calculations, creating key performance indicators (KPIs)  power query and visualization).
