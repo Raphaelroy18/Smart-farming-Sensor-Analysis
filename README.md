@@ -8,3 +8,6 @@ Based on the first five sample data entries, we can observe variations in farmin
 *DATA SOURCE 
 
 The data was gotten from kaggle[download here](https://www.kaggle.com/datasets/atharvasoundankar/smart-farming-sensor-data-for-yield-prediction?resource=download)
+
+*DASHBOARD
+(<img width="1262" height="709" alt="Screenshot 2025-07-22 001307" src="https://github.com/user-attachments/assets/300066c1-3766-4aa6-99dc-e8d002de91f9" />
