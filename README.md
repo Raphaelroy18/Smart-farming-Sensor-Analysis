@@ -21,11 +21,71 @@ Power BI (for DAX calculations, creating key performance indicators (KPIs)  powe
 *RELEVANT ENQUIRIES FOR THE ANALYSIS
 
 
+*✅ KPI
+
+Insights
+
+1. Average Yield per Hectare: 4.03K Kg/Ha
+
+Insight:
+
+The overall average yield per hectare across all crops and regions is 4,032.93 Kg/Ha.
+
+Interpretation:
+
+This figure sets a benchmark for performance. Crops or regions consistently performing below this average should be prioritized for improvement.
+
+Actionable Point:
+
+Target yield-enhancing practices (e.g., improved seed varieties, irrigation systems, and fertilizer use) in crops or regions underperforming relative to this benchmark.
+
+2. Average Growth Duration: 119 Days
+   
+Insight:
+
+On average, crops require about 119 days (approximately 4 months) from planting to harvest.
+
+Interpretation:
+
+The majority of crops are medium-duration varieties, which allow for 2 or more cropping cycles per year in favorable climates.
+
+Actionable Point:
+
+Crop rotation and planning calendars should be designed around this typical growth window to maximize annual land use.
+
+3. Average NDVI: 0.60
+   
+Insight:
+
+The average NDVI (Normalized Difference Vegetation Index) of 0.60 indicates healthy vegetative growth, but not optimal (which would be closer to 0.7–0.8).
+
+Interpretation:
+
+A value of 0.60 suggests that most fields are performing well in terms of vegetative health, but there is room for improvement in soil fertility, moisture levels, or crop management.
+
+Actionable Point:
+Implement precision agriculture techniques, such as site-specific nutrient management and variable rate irrigation, to push NDVI values higher.
+
+🎯 KPI Summary Table:
+
+KPI	Value	Insight Summary	Recommended Action
+
+Average Yield per Hectare	4.03K Kg/Ha	Good average yield overall, but some crops and regions fall below.
+
+Support underperforming areas with technology, training, or inputs.
+
+Average Growth Duration	119 Days	Medium-duration crops dominate, ideal for multiple cropping seasons.	Plan cropping calendars to maximize annual production cycles.
+
+Average NDVI	0.60	Vegetative health is above average but not optimal.	Improve plant health with better irrigation, fertilization, and pest control.
+
+🧠The KPIs show a solid overall performance of the smart farming system. However, when paired with the visuals, it becomes clear where strategic improvements can push the productivity even further. These KPIs are key metrics that should be monitored frequently to track progress and guide decision-making in precision agriculture.
+
 1. Line Chart: Yield Kg per Hectare vs. Harvest Date (Month)
    
 •	Insight: Yield increases from April through June, peaking at nearly 728,039.50 Kg/Ha in June, then declines steadily in July and drops sharply in August.
 
-•	Interpretation: This suggests that June is the most productive harvest month, likely due to optimal growing conditions. Post-June, environmental or agronomic factors may reduce crop productivity.
+•	Interpretation:
+This suggests that June is the most productive harvest month, likely due to optimal growing conditions. Post-June, environmental or agronomic factors may reduce crop productivity.
 
 
 <img width="1267" height="701" alt="Screenshot 2025-07-22 003106" src="https://github.com/user-attachments/assets/b96036b3-081c-4004-927a-7fbb15bb5eb7" />
