@@ -9,7 +9,7 @@ Based on the first five sample data entries, we can observe variations in farmin
 
 The data was gotten from kaggle[download here](https://www.kaggle.com/datasets/atharvasoundankar/smart-farming-sensor-data-for-yield-prediction?resource=download)
 
-**TECHNOLOGIES USE FOR THIS PROJECT
+*TECHNOLOGIES USE FOR THIS PROJECT
 
 Microsoft Excel (for data cleaning, basic statistics and insights)
 
@@ -20,6 +20,7 @@ Power BI (for DAX calculations, creating key performance indicators (KPIs)  powe
 
 *RELEVANT ENQUIRIES FOR THE ANALYSIS
 
+
 1. Line Chart: Yield Kg per Hectare vs. Harvest Date (Month)
    
 •	Insight: Yield increases from April through June, peaking at nearly 728,039.50 Kg/Ha in June, then declines steadily in July and drops sharply in August.
@@ -28,6 +29,8 @@ Power BI (for DAX calculations, creating key performance indicators (KPIs)  powe
 
 
 <img width="1267" height="701" alt="Screenshot 2025-07-22 003106" src="https://github.com/user-attachments/assets/b96036b3-081c-4004-927a-7fbb15bb5eb7" />
+
+
 
 2. Scatter Plot: Avg Growth Duration vs. Yield Kg per Hectare vs. Crop Type
    
@@ -45,6 +48,8 @@ o	Rice has the lowest yield (~389,600 Kg/Ha) with a growth duration of 119 days.
 
 <img width="1262" height="710" alt="Screenshot 2025-07-22 003600" src="https://github.com/user-attachments/assets/a7280837-c6d3-4ef8-9bd1-1262bc2ffaf5" />
 
+
+
 3. Bar Chart: Yield Kg per Hectare vs. Region
    
 •	Insight:
@@ -57,6 +62,8 @@ o	North India follows closely, while South India and South USA have comparativel
 
 
 <img width="1262" height="708" alt="Screenshot 2025-07-22 004058" src="https://github.com/user-attachments/assets/e43bee8f-43a8-4b65-9382-1d658c7d1bfd" />
+
+
 
 4. Pie Chart: Yield Kg per Hectare vs. Irrigation Type
    
@@ -72,6 +79,8 @@ o	Sprinkler accounts for the least share (446.16K, 22.1%).
 
 
 <img width="1257" height="704" alt="Screenshot 2025-07-22 004348" src="https://github.com/user-attachments/assets/7a1a83e8-13f2-4154-b08e-638a23a25bde" />
+
+
 
 5. Table Chart: Crop Type vs. Average Yield per Hectare
 Crop Type	Average Yield (Kg/Ha)
@@ -98,6 +107,8 @@ o	Rice consistently shows the lowest yield among the crops.
 
 
 <img width="1257" height="702" alt="Screenshot 2025-07-22 004805" src="https://github.com/user-attachments/assets/fb91f1f5-1c18-4a66-9ee0-448ebd082e3e" />
+
+
 
 
 *✅ Final Conclusion and Recommendations from Smart Farming Sensor Dashboard Analysis
